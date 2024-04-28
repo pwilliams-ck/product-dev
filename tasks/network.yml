@@ -1,0 +1,4 @@
+- name: install whois
+  apt: name=whois
+  tags:
+    - network
