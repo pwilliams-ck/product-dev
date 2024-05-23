@@ -28,7 +28,7 @@ brew install ansible
 Now that Ansible is installed, run the follwing command.
 
 ```bash
-sudo ansible-pull -U https://github.com/pwilliams-ck/product-dev-net
+sudo ansible-pull -U https://github.com/pwilliams-ck/product-dev
 ```
 
 This is heavily inspired by [ThePrimeagen](https://twitch.tv/theprimeagen).
