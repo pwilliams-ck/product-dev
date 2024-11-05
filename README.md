@@ -11,17 +11,17 @@ To install everything on a local machine, you need to install [Ansible](https://
 ### Debian/Ubuntu
 
 ```bash
-sudo apt install ansible
+sudo apt install ansible -y
 ```
 ### RPM
 
 ```bash
-sudo yum install ansible
+sudo yum install ansible -y
 ```
 ### Darwin
 
 ```bash
-brew install ansible
+brew install ansible -y
 ```
 ---
 
